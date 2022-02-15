@@ -1,2 +1,2 @@
 # LeetcodeSolutions
-Contains solutions of LeetCode questions.
+Contains solutions of LeetCode Questions.
